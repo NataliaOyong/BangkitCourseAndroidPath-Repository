@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DicodingApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="deskripsi_event">deskripsi event</string>
+    <string name="event_name">Event Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_link">Open Link</string>
+    <string name="finised">Finised</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="search_results">Search Results</string>
+    <string name="event_image">Event Image</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="penyelenggara">Penyelenggara:</string>
+    <string name="waktu">Waktu:</string>
+    <string name="sisa_kuota">Sisa Kuota:</string>
+
+</resources>

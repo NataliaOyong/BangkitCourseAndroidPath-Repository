@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MathApp</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="count">Hitung</string>
+    <string name="value">Hasil</string>
+    <string name="masukkan_panjang">Masukkan Panjang</string>
+    <string name="nilaipanjang">Masukkan panjang</string>
+    <string name="nilailebar">Masukkan lebar</string>
+    <string name="nilaitinggi">Masukkan tinggi</string>
+</resources>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MyPlanetApp</string>
+    <string name="planet_name">Planet Name</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="show_more_details">Show More Details</string>
+    <string name="about">About</string>
+    <string name="a315b4kx3255_bangkit_academy">a315b4kx3255@bangkit.academy</string>
+    <string name="natalia_oyong">Natalia Oyong</string>
+    <string name="share">share</string>
+
+    <string-array name="data_name">
+        <item>Sun</item>
+        <item>Comet</item>
+        <item>Moon</item>
+        <item>Asteroid</item>
+        <item>Neptune</item>
+        <item>Uranus</item>
+        <item>Saturn</item>
+        <item>Venus</item>
+        <item>Jupiter</item>
+        <item>Mars</item>
+        <item>Earth</item>
+        <item>Mercury</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>The Sun is the star at the center of our solar system, providing light and energy.</item>
+        <item>Comets are small space objects made of ice, dust, and rock with a glowing tail when near the Sun.</item>
+        <item>The Moon is Earth\'s natural satellite and the only celestial body visited by humans.</item>
+        <item>Asteroids are small rocky objects in space, mostly found in the asteroid belt between Mars and Jupiter.</item>
+        <item>Neptune is the eighth planet from the Sun, known as an ice giant.</item>
+        <item>Uranus is the seventh planet from the Sun, noted for its extreme axial tilt and faint rings.</item>
+        <item>Saturn is famous for its large and stunning rings made of ice and dust.</item>
+        <item>Venus is the second planet from the Sun, often called Earth\'s twin due to its similar size and composition.</item>
+        <item>Jupiter is the largest planet in the solar system, featuring a massive storm known as the Great Red Spot.</item>
+        <item>Mars is the fourth planet from the Sun, often referred to as the "Red Planet" due to its reddish surface.</item>
+        <item>Earth is the only planet known to harbor life, with its surface mostly covered by water.</item>
+        <item>Mercury is the closest planet to the Sun, known for its rapid orbit.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/sun</item>
+        <item>@drawable/comet</item>
+        <item>@drawable/moon</item>
+        <item>@drawable/asteroid</item>
+        <item>@drawable/neptune</item>
+        <item>@drawable/uranus</item>
+        <item>@drawable/saturn</item>
+        <item>@drawable/venus</item>
+        <item>@drawable/jupiter</item>
+        <item>@drawable/mars</item>
+        <item>@drawable/earth</item>
+        <item>@drawable/mercury</item>
+    </integer-array>
+
+    <string-array name="data_detail_description">
+        <item>The Sun is the star at the center of our solar system, providing light and energy. The Sun is a massive ball of hot plasma primarily composed of hydrogen and helium. Its surface temperature is about 5,500°C, and it is the primary source of energy for life on Earth. The Sun is approximately 4.6 billion years old, playing a crucial role in maintaining the balance of our solar system.</item>
+        <item>Comets are small space objects made of ice, dust, and rock with a glowing tail when near the Sun. These icy bodies originate from the outer parts of the solar system and can travel great distances, developing a tail when heated by the Sun as their ice sublimates.</item>
+        <item>The Moon is Earth\'s natural satellite and the only celestial body visited by humans. It has a significant impact on Earth\'s tides and has been a subject of fascination and exploration for centuries, influencing culture, science, and navigation.</item>
+        <item>Asteroids are small rocky objects in space, mostly found in the asteroid belt between Mars and Jupiter. These remnants from the early solar system provide valuable insights into its formation and evolution, and some may even pose a threat to Earth.</item>
+        <item>Neptune is the eighth planet from the Sun, known as an ice giant. It has a striking blue color due to the presence of methane in its atmosphere and is known for its strong winds, which can reach speeds of over 2,100 km/h, making it one of the most dynamic planets.</item>
+        <item>Uranus is the seventh planet from the Sun, noted for its extreme axial tilt of 98 degrees. This unique tilt causes extreme seasonal changes, and it also possesses faint rings and many moons, making it a fascinating subject for study.</item>
+        <item>Saturn is famous for its large and stunning rings made of ice and dust. This sixth planet from the Sun has a rich atmosphere primarily composed of hydrogen and helium, and its ring system is the most extensive and complex of any planet.</item>
+        <item>Venus is the second planet from the Sun, often called Earth\'s twin due to its similar size and composition. However, its thick atmosphere creates a runaway greenhouse effect, making it the hottest planet in our solar system with surface temperatures exceeding 465°C.</item>
+        <item>Jupiter is the largest planet in the solar system, featuring a massive storm known as the Great Red Spot, which is larger than Earth. With its many moons and intricate ring system, Jupiter is a central point of interest for astronomers and space exploration.</item>
+        <item>Mars is the fourth planet from the Sun, often referred to as the "Red Planet" due to its reddish surface. It is home to the tallest volcano and the deepest canyon in the solar system, making it a prime target for exploration in search of past or present life.</item>
+        <item>Earth is the only planet known to harbor life, with its surface mostly covered by water. It has a diverse range of ecosystems and climates and is located in the habitable zone of the solar system, allowing for a rich tapestry of life.</item>
+        <item>Mercury is the closest planet to the Sun, known for its rapid orbit and extreme temperature fluctuations. With a very thin atmosphere, it experiences significant temperature changes between day and night, making its surface heavily cratered.</item>
+    </string-array>
+</resources>
